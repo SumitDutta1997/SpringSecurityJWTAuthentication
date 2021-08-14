@@ -10,4 +10,4 @@ Screenshots :
 
 2.  /home endpoint
 
-![IMG-20210814-WA0001__01](https://github.com/SumitDutta1997/SpringSecurityJWTAuthentication/blob/master/IMG-20210814-WA0000__01.jpg)
+![IMG-20210814-WA0001__01](https://github.com/SumitDutta1997/SpringSecurityJWTAuthentication/blob/master/IMG-20210814-WA0001__01.jpg)
